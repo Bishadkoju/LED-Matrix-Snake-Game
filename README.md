@@ -12,7 +12,6 @@ In order to create this project, First of all it's circuit design was simulated 
 ## Circuit Diagram
 Note: This diagram does'nt include circuit for the LCD Screen.
 ![Circuit](./circuitDiagram.bmp)
-## Final Product
-![preview](./preview.jpeg)
-
-A simple controller, made using a matrix board, consisted of four push buttons. For the display, 
+## Preview
+Matrix board verison: 
+![preview](./preview.JPG)
